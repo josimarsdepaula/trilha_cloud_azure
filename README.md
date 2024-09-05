@@ -1,6 +1,5 @@
 # Microsoft AZ-900 Bootcamp
 
-![Capa do Bootcamp](https://path_to_your_image)
 
 ## Detalhes do Bootcamp
 
